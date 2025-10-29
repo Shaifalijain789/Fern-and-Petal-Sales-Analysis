@@ -22,9 +22,9 @@ Imported and integrated 3 CSV files:
  • Customers
  • Products
 <br>
-Used Power Query for data cleaning and transformation.<br>
-Created relationships using the Excel Data Model (Power Pivot).<br>
-Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.<br>
+-Used Power Query for data cleaning and transformation.<br>
+-Created relationships using the Excel Data Model (Power Pivot).<br>
+-Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.<br>
  
 <h3>
 Insights Derived:
