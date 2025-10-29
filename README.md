@@ -1,12 +1,24 @@
-<h3>🎯 Ferns and Petals Sales Analysis – Excel Dashboard</h3>
+<h2>
+ 🎯 Ferns and Petals Sales Analysis – Excel Dashboard
+</h2>
+<p>
 Thrilled to share my recent project where I built an end-to-end interactive Excel Dashboard for Ferns and Petals (F&P) — a brand known for gifting solutions across occasions like Diwali, Holi, Raksha Bandhan, Valentine's Day, and more.
-📌 Project Objective:
+</p>
+<h3>
+Project Objective:
+<h3>
+ <p>
  To analyze FNP’s sales data and uncover actionable insights on product performance, customer behavior, and seasonal trends.
-📁 Project Workflow:
-✅ Imported and integrated 3 CSV files:
+ </p>
+ <h3>
+Project Workflow:
+ </h3>
+ <p>
+Imported and integrated 3 CSV files:
  • Orders
  • Customers
  • Products
+ <p>
 ✅ Used Power Query for data cleaning and transformation
 ✅ Created relationships using the Excel Data Model (Power Pivot)
 ✅ Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers
