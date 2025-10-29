@@ -8,7 +8,7 @@ Thrilled to share my recent project where I built an end-to-end interactive Exce
 
 <h3>
 Project Objective:
-<h3>
+</h3>
 <p>
 To analyze FNP’s sales data and uncover actionable insights on product performance, customer behavior, and seasonal trends.
 </p>
@@ -21,10 +21,10 @@ Imported and integrated 3 CSV files:
  • Orders
  • Customers
  • Products
-</p><br>
-<p>Used Power Query for data cleaning and transformation.</p><br>
-<p>Created relationships using the Excel Data Model (Power Pivot).</p><br>
-<p>>Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.</p><br>
+<br>
+Used Power Query for data cleaning and transformation.<br>
+Created relationships using the Excel Data Model (Power Pivot).<br>
+Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.<br>
 <h3>
 Insights Derived:
 <h3>
