@@ -1,39 +1,49 @@
 <h2>
  🎯 Ferns and Petals Sales Analysis – Excel Dashboard
-<\h2>
+</h2>
+
 <p>
 Thrilled to share my recent project where I built an end-to-end interactive Excel Dashboard for Ferns and Petals (F&P) — a brand known for gifting solutions across occasions like Diwali, Holi, Raksha Bandhan, Valentine's Day, and more.
 </p>
+
 <h3>
 Project Objective:
 <h3>
- <p>
- To analyze FNP’s sales data and uncover actionable insights on product performance, customer behavior, and seasonal trends.
- </p>
- <h3>
+<p>
+To analyze FNP’s sales data and uncover actionable insights on product performance, customer behavior, and seasonal trends.
+</p>
+ 
+<h3>
 Project Workflow:
- </h3>
- <p>
+</h3>
+<p>
 Imported and integrated 3 CSV files:
  • Orders
  • Customers
  • Products
- <p>
-✅ Used Power Query for data cleaning and transformation
-✅ Created relationships using the Excel Data Model (Power Pivot)
-✅ Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers
-📊 Insights Derived:
-🔹 Total revenue & average customer revenue
-🔹 Monthly & hourly sales performance
-🔹 Top 5 products by revenue
-🔹 City-wise order distribution
-🔹 Delivery time vs. order quantity trends
-🔹 Occasion-wise revenue breakdown
+</p><br>
+<p>Used Power Query for data cleaning and transformation.</p><br>
+<p>Created relationships using the Excel Data Model (Power Pivot).</p><br>
+<p>>Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.</p><br>
+<h3>
+Insights Derived:
+<h3>
+<p>Total revenue & average customer revenue<<br>
+🔹 Monthly & hourly sales performance<br>
+🔹 Top 5 products by revenue<br>
+🔹 City-wise order distribution<br>
+🔹 Delivery time vs. order quantity trends<br>
+🔹 Occasion-wise revenue breakdown<br>
+</p>
+ <h3>
 🛠️ Tools & Skills Used:
- • Microsoft Excel
- • Power Query
- • Power Pivot (Data Model)
- • Interactive visualizations (PivotCharts + Slicers)
+ </h3>
+<p>
+ • Microsoft Excel<br>
+ • Power Query<br>
+ • Power Pivot (Data Model)<br>
+ • Interactive visualizations (PivotCharts + Slicers)<br>
+</p>
 
 
 ## 📊 Dashboard Preview
