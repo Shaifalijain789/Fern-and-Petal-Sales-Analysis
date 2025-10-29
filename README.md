@@ -1,6 +1,6 @@
 <h2>
  🎯 Ferns and Petals Sales Analysis – Excel Dashboard
-</h2>
+<\h2>
 <p>
 Thrilled to share my recent project where I built an end-to-end interactive Excel Dashboard for Ferns and Petals (F&P) — a brand known for gifting solutions across occasions like Diwali, Holi, Raksha Bandhan, Valentine's Day, and more.
 </p>
