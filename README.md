@@ -17,7 +17,7 @@ To analyze FNP’s sales data and uncover actionable insights on product perform
 Project Workflow:
 </h3>
 <p>
-Imported and integrated 3 CSV files:
+-Imported and integrated 3 CSV files:
  • Orders
  • Customers
  • Products
