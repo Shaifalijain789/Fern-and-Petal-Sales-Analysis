@@ -25,19 +25,21 @@ Imported and integrated 3 CSV files:
 Used Power Query for data cleaning and transformation.<br>
 Created relationships using the Excel Data Model (Power Pivot).<br>
 Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.<br>
+ 
 <h3>
 Insights Derived:
-<h3>
-<p>Total revenue & average customer revenue<<br>
-🔹 Monthly & hourly sales performance<br>
-🔹 Top 5 products by revenue<br>
-🔹 City-wise order distribution<br>
-🔹 Delivery time vs. order quantity trends<br>
-🔹 Occasion-wise revenue breakdown<br>
+</h3>
+<p>-Total revenue & average customer revenue<<br>
+-Monthly & hourly sales performance<br>
+-Top 5 products by revenue<br>
+-City-wise order distribution<br>
+-Delivery time vs. order quantity trends<br>
+-Occasion-wise revenue breakdown<br>
 </p>
- <h3>
-🛠️ Tools & Skills Used:
- </h3>
+ 
+<h3>
+Tools & Skills Used:
+</h3>
 <p>
  • Microsoft Excel<br>
  • Power Query<br>
