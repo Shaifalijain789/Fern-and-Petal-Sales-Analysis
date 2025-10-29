@@ -1,4 +1,4 @@
-🎯 Ferns and Petals Sales Analysis – Excel Dashboard 
+<h3>🎯 Ferns and Petals Sales Analysis – Excel Dashboard</h3>
 Thrilled to share my recent project where I built an end-to-end interactive Excel Dashboard for Ferns and Petals (F&P) — a brand known for gifting solutions across occasions like Diwali, Holi, Raksha Bandhan, Valentine's Day, and more.
 📌 Project Objective:
  To analyze FNP’s sales data and uncover actionable insights on product performance, customer behavior, and seasonal trends.
