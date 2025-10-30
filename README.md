@@ -16,36 +16,39 @@ To analyze FNP’s sales data and uncover actionable insights on product perform
 <h3>
 Project Workflow:
 </h3>
-<p>
--Imported and integrated 3 CSV files:
- • Orders
- • Customers
- • Products
-<br>
--Used Power Query for data cleaning and transformation.<br>
--Created relationships using the Excel Data Model (Power Pivot).<br>
--Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.<br>
+<ul>
+<li>Imported and integrated 3 CSV files:</li>
+   <ul>
+    <li>Orders</li>
+    <li>Customers</li>
+    <li>Products</li>
+   </ul>
+<li>Used Power Query for data cleaning and transformation.</li>
+<li>Created relationships using the Excel Data Model (Power Pivot).</li>
+<li>Designed a dynamic dashboard using PivotTables, PivotCharts, and Slicers.</li>
+</ul>
  
 <h3>
 Insights Derived:
 </h3>
-<p>-Total revenue & average customer revenue<<br>
--Monthly & hourly sales performance<br>
--Top 5 products by revenue<br>
--City-wise order distribution<br>
--Delivery time vs. order quantity trends<br>
--Occasion-wise revenue breakdown<br>
-</p>
+<ul>
+<li>Total revenue & average customer revenue</li>
+<li>Monthly & hourly sales performance</li>
+<li>Top 5 products by revenue</li>
+<li>City-wise order distribution</li>
+</li>Delivery time vs. order quantity trends</li>
+<li>Occasion-wise revenue breakdown</li>
+</ul>
  
 <h3>
 Tools & Skills Used:
 </h3>
-<p>
- • Microsoft Excel<br>
- • Power Query<br>
- • Power Pivot (Data Model)<br>
- • Interactive visualizations (PivotCharts + Slicers)<br>
-</p>
+<ul>
+  <li>Microsoft Excel</li>
+  <li>Power Query</li>
+  <li>Power Pivot (Data Model)</li>
+  </li>Interactive visualizations (PivotCharts + Slicers)</li>
+</ul>
 
 
 ## 📊 Dashboard Preview
