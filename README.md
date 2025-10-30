@@ -36,7 +36,7 @@ Insights Derived:
 <li>Monthly & hourly sales performance</li>
 <li>Top 5 products by revenue</li>
 <li>City-wise order distribution</li>
-</li>Delivery time vs. order quantity trends</li>
+<li>Delivery time vs. order quantity trends</li>
 <li>Occasion-wise revenue breakdown</li>
 </ul>
  
@@ -47,7 +47,7 @@ Tools & Skills Used:
   <li>Microsoft Excel</li>
   <li>Power Query</li>
   <li>Power Pivot (Data Model)</li>
-  </li>Interactive visualizations (PivotCharts + Slicers)</li>
+  <li>Interactive visualizations (PivotCharts + Slicers)</li>
 </ul>
 
 
